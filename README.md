@@ -7,7 +7,6 @@ Bienvenue dans la documentation technique du projet **LobApp**. Ce projet vise �
 Le projet est divisé en trois briques principales :
 
 1.  **[LobApp Extraction](components/extraction.md)** : Collecte et ingestion des données brutes.
-1.  **[LobApp Extraction](components/extraction.md)** : Collecte et ingestion des données brutes.
 2.  **[LobApp Transformation](components/transformation.md)** : Réconciliation des données parlementaires et structuration relationnelle.
 3.  **[LobApp Backend](components/backend.md)** : API REST (FastAPI) exposant les données.
 4.  **[LobApp Frontend](components/frontend.md)** : Interface utilisateur (Next.js).
